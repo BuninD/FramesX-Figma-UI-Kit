@@ -52,5 +52,7 @@ Download the UI Kit and start designing today:
 [Figma UI Kit →](https://framesxdesign.com)
 
 ---
+![framesX-logo-dark](https://github.com/user-attachments/assets/861edc5e-212a-47bc-9571-18fd178689f1)
+
 
 _© BuninUX LLC – Frames X is a trademark of BuninUX. All rights reserved._
