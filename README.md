@@ -1,2 +1,2 @@
 # FramesX
-Frames X
+Frames X - The Largest Figma UI Kit & Web Design System
