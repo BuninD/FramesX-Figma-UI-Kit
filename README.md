@@ -1,4 +1,4 @@
-# Frames X UI Kit
+# Frames X - Figma UI Kit
 
 **Enterprise-Ready Figma UI Kit & Design System**
 
@@ -20,7 +20,7 @@ Frames X is the most powerful and comprehensive UI Kit for Figma. Built for star
 
 ## Design and code unified
 
-Frames X UI Kit components are available as a separate package via [CocoKits Tools](https://github.com/coco-base/cocokits). To get started, please install the CocoKits React or Angular components and the Frames X UI Kit theme.
+Frames X UI Kit components are available as a separate package via [CocoKits Tools](https://github.com/coco-base/cocokits). To get started, please install the CocoKits React or Angular components and the Frames X UI Kit theme. [Install Frames X Theme](https://www.npmjs.com/package/@cocokits/theme-frames-x)
 
 ## Use Cases
 
