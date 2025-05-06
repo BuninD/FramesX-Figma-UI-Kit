@@ -53,4 +53,4 @@ Download the UI Kit and start designing today:
 
 ---
 
-© BuninUX LLC – Frames X is a trademark of BuninUX. All rights reserved.
+_© BuninUX LLC – Frames X is a trademark of BuninUX. All rights reserved._
