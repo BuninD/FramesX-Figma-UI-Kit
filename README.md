@@ -10,13 +10,13 @@ Frames X is the most powerful and comprehensive UI Kit for Figma. Built for star
 
 ## Core Features
 
-- 🧩 **3,500**+ responsive components & variants
-- 🖥️ Designed for web apps, SaaS, and enterprise systems
-- 🎯 Built with Figma Variables, Auto Layout, and Component Properties
-- 🚀 Production-ready templates for fast prototyping
-- 📦 Design tokens & style presets included
-- 🧑‍💻 Developer-friendly handoff and documentation
-- 🔄 Continuous updates with new sections and use-cases
+- 🧩 **3,500**+ responsive components & variants.
+- 🖥️ Designed for web apps, SaaS, and enterprise systems.
+- 🎯 Built with Figma Variables, Auto Layout, and Component Properties.
+- 🚀 Production-ready templates for fast prototyping.
+- 📦 Design tokens & style presets included.
+- 🧑‍💻 Developer-friendly handoff and documentation.
+- 🔄 Continuous updates with new sections and use-cases.
 
 ## Design and code unified
 
@@ -24,10 +24,10 @@ Frames X UI Kit components are available as a separate package via [CocoKits Too
 
 ## Use Cases
 
-- Design scalable B2B products
-- Rapidly prototype complex user flows
-- Maintain consistency across large teams
-- Save weeks building your startup from scratch
+- Design scalable B2B products.
+- Rapidly prototype complex user flows.
+- Maintain consistency across large teams.
+- Save weeks building your startup from scratch.
 
 **Frames X UI Kit will help you to:**
 
