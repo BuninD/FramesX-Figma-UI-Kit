@@ -20,12 +20,13 @@ Frames X is the most powerful and comprehensive UI Kit for Figma, built for star
 
 ## Use Cases
 
+- Design in Figma and code unified
 - Design scalable B2B products
 - Rapidly prototype complex user flows
 - Maintain consistency across large teams
 - Save weeks building your startup from scratch
 
-Using Frames X can help you:
+## Using Frames X UI Kit can help you:
 
 - **Speed up UI/UX production time**, improving your product’s time-to-market
 - **Ensure design consistency across content-heavy sites**, improving UX metrics like bounce rate and conversion
