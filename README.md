@@ -39,7 +39,7 @@ You may use Frames X UI Kit to create unlimited commercial and personal projects
 - Digital and physical end products  
 - Internal tools, client projects, and marketing assets
 
-[→ Learn more about the license](https://framesxdesign.com/legal)
+[Learn more about the license →](https://framesxdesign.com/legal)
 
 ## Get Started
 
