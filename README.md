@@ -6,8 +6,8 @@ Frames X is the largest UI Kit and design system that offers professional-grade 
 
 #Free Resources
 
-[Copy and Paste Symbols](https://framesxdesign.com/copy-paste-symbols)
-[Copy and Paste Icons](https://framesxdesign.com/copy-paste-icons)
+[Copy and Paste Symbols](https://framesxdesign.com/copy-paste-symbols) |
+[Copy and Paste Icons](https://framesxdesign.com/copy-paste-icons) |
 [Figma Components](https://framesxdesign.com/design-resources)
 
 
