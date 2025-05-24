@@ -2,7 +2,7 @@
 
 **Enterprise-Ready Figma UI Kit & Design System**
 
-[Visit Frames X Website →](https://framesxdesign.com)
+[Visit Frames X UI Kit →](https://framesxdesign.com)
 
 ---
 
